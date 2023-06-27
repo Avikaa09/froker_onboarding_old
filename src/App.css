@@ -1,0 +1,26 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+}
+
+.header{
+ height: 50px;
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ padding: 4px;
+ border-bottom: 1px solid ;
+}
+.sidemenu{
+  display: flex;
+  flex: 1;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.content{
+ padding-left: 12px;
+}
+
+
