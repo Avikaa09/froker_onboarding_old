@@ -1,6 +1,0 @@
-.chartList{
-    display: flex;
-    gap: 40px;
-    overflow-x: auto; /* Enable horizontal scrolling */
-    align-items: flex-start;
-}
